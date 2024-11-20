@@ -3,7 +3,6 @@
 ## Overview
 
 The FindStock Website offers an intuitive interface for beginners and traders to search for an individual stock and make informed decisions. The homepage emphasizes a search-first approach with minimal distractions, while individual stock pages focus on delivering actionable insights with interactive charts and fundamental data.
-The application's background color is `#ffffff` for a clean and minimal design.
 
 
 ### Problem Space
